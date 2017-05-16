@@ -7,7 +7,7 @@ SCUYouth is an Android application that fetches and displays information from th
 [Wandoujia]()<br>
 [Download APK](app/app-release.apk)
 ## Screenshots
-<img src="Screenshots/homepage.png" height="400" alt="Screenshot"/> <img src="Screenshots/list.png" height="400" alt="Screenshot"/> <img src="Screenshots/refresh.png" height="400" alt="Screenshot"/> <img src="Screenshots/view_detail_expanded.png" height="400" alt="Screenshot"/> <img src="Screenshots/view_detail_collapsed.png" height="400" alt="Screenshot"/>
+<img src="Screenshots/homepage.png" height="400" alt="Screenshot"/> <img src="Screenshots/navigation_drawer.png" height="400" alt="Screenshot"/> <img src="Screenshots/list.png" height="400" alt="Screenshot"/> <img src="Screenshots/refresh.png" height="400" alt="Screenshot"/> <img src="Screenshots/view_detail_expanded.png" height="400" alt="Screenshot"/> <img src="Screenshots/view_detail_collapsed.png" height="400" alt="Screenshot"/>
 ## Proguard rules
 If you build the application yourself, remember to include the following rules if you use Proguard.
 ```
