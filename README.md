@@ -5,7 +5,7 @@ SCUYouth is an Android application that fetches and displays information from th
 ## Install the app
 [Google Play]()<br>
 [Wandoujia]()<br>
-[Download APK]()
+[Download APK](SCUYouth-1.0.apk)
 ## Screenshots
 ## Proguard rules
 If you build the application yourself, remember to include the following rules if you use Proguard.
